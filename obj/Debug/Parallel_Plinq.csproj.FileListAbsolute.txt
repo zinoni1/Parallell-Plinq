@@ -1,0 +1,10 @@
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\obj\Debug\Parallel_Plinq.csproj.AssemblyReference.cache
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\obj\Debug\Parallel_Plinq.csproj.CoreCompileInputs.cache
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\bin\Debug\Parallel_Plinq.exe.config
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\bin\Debug\Parallel_Plinq.exe
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\bin\Debug\Parallel_Plinq.pdb
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\obj\Debug\Parallel_Plinq.exe
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\obj\Debug\Parallel_Plinq.pdb
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zenonrp\source\repos\Parallel_Plinq\Parallel_Plinq\obj\Debug\Parallel_Plinq.csproj.CopyComplete
